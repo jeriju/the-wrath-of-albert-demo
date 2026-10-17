@@ -1,5 +1,7 @@
 # The Wrath Of Albert (demo)
 
+![The Wrath Of Albert: Albert pouncing over Tawny Hill](promo.png)
+
 Albert is a fluffy ragdoll cat with no plans and no worries. Somebody keeps giving him jobs anyway.
 
 **The Wrath Of Albert** is a cute 2D platformer, inspired by *Tombi!*, set in an Australian bush full of koalas,
