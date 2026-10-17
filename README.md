@@ -8,6 +8,17 @@ branches, open eskies, help the locals with their problems, and nap in cardboard
 
 This is an **early demo**. It runs from Tawny Hill, Albert's home, to the Suburban Wastes, where it ends.
 
+<p>
+  <img src="screenshots/tawny_hill.png" width="49%" alt="Albert outside his house in Tawny Hill">
+  <img src="screenshots/eucalyptopia.png" width="49%" alt="Scoop the newspaper koala: Cat spotted in Eucalyptopia!">
+  <img src="screenshots/captain_cocky.png" width="49%" alt="Captain Cocky on the pier: AVAST!">
+  <img src="screenshots/wobbegong_grotto.png" width="49%" alt="Wobbegong Grotto">
+  <img src="screenshots/pounce.png" width="49%" alt="Albert pouncing on a dog in Gungnung Cave">
+  <img src="screenshots/riding_a_dog.png" width="49%" alt="Albert riding a dog on the beach">
+  <img src="screenshots/bonk.png" width="49%" alt="A thrown dog going BONK">
+  <img src="screenshots/mushroom_bounce.png" width="49%" alt="Albert bouncing off a mushroom">
+</p>
+
 ## How to play
 
 1. Go to **[Releases](../../releases)** (on the right of this page) and download **The Wrath Of Albert Demo.zip**.
