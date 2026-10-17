@@ -4,6 +4,8 @@
 
 Albert is a fluffy ragdoll cat with no plans and no worries. Somebody keeps giving him jobs anyway.
 
+> ### 🎮 Play it on itch.io: [https://jeriju.itch.io/the-wrath-of-albert](https://jeriju.itch.io/the-wrath-of-albert)
+
 **The Wrath Of Albert** is a cute 2D platformer, inspired by *Tombi!*, set in an Australian bush full of koalas,
 pademelons, magpies and an awful lot of dogs. Pounce on enemies, ride them, throw them, climb vines, swing on
 branches, open eskies, help the locals with their problems, and nap in cardboard boxes to save.
