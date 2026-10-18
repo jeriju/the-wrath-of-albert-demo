@@ -14,14 +14,16 @@ branches, open eskies, help the locals with their problems, and nap in cardboard
 This is an **early demo**. It runs from Tawny Hill, Albert's home, to the Suburban Wastes, where it ends.
 
 <p>
-  <img src="screenshots/tawny_hill.png" width="49%" alt="Albert outside his house in Tawny Hill">
-  <img src="screenshots/eucalyptopia.png" width="49%" alt="Scoop the newspaper koala: Cat spotted in Eucalyptopia!">
-  <img src="screenshots/captain_cocky.png" width="49%" alt="Captain Cocky on the pier: AVAST!">
-  <img src="screenshots/wobbegong_grotto.png" width="49%" alt="Wobbegong Grotto">
-  <img src="screenshots/pounce.png" width="49%" alt="Albert pouncing on a dog in Gungnung Cave">
-  <img src="screenshots/riding_a_dog.png" width="49%" alt="Albert riding a dog on the beach">
-  <img src="screenshots/bonk.png" width="49%" alt="A thrown dog going BONK">
-  <img src="screenshots/mushroom_bounce.png" width="49%" alt="Albert bouncing off a mushroom">
+  <img src="screenshots/tawny_mushroom_by_the_house.png" width="49%" alt="Albert bouncing off the mushroom by his house in Tawny Hill, with dogs and a crow about">
+  <img src="screenshots/cocky_avast.png" width="49%" alt="Captain Cocky on the pier by his pirate ship: AVAST!">
+  <img src="screenshots/eucalyptopia_jump.png" width="49%" alt="Albert jumping along Leaf Street in Eucalyptopia, the koalas' city in the gum trees">
+  <img src="screenshots/beach_grey_dog_rockpool.png" width="49%" alt="A grey dog by the rock pools at Bluebottle Bay, under a rainbow">
+  <img src="screenshots/ian_pharaoh_of_the_gully.png" width="49%" alt="Ian the Ibis, Pharaoh of the Gully, Lord of the Bins">
+  <img src="screenshots/grotto_dog_bonked_off_the_rock_stack.png" width="49%" alt="A dog going BONK in Wobbegong Grotto">
+  <img src="screenshots/gully_is_that_it_no_thats_a_dog.png" width="49%" alt="Is that it? ...No. That's a dog. In Scribblygum Gully">
+  <img src="screenshots/beach_wide_seagull_by_the_pirate_ship.png" width="49%" alt="Albert leaping by the pirate ship's pier, a seagull on the swing">
+  <img src="screenshots/suburbs_trampoline_magpie.png" width="49%" alt="Albert bouncing high off a trampoline in the Suburban Wastes, past a magpie">
+  <img src="screenshots/cave_dog_hurled_past_the_cave_painting.png" width="49%" alt="Albert hurling a dog through Gungnung Cave, past the cave paintings">
 </p>
 
 ## How to play
