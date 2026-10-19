@@ -134,3 +134,10 @@ Saves are kept in `%APPDATA%\The Wrath Of Albert Demo` on your computer.
 Bugs, ideas and opinions are all welcome, big or small, through
 [the feedback form](https://docs.google.com/forms/d/1ZBK7EDi_RCsw9hShprB_aEUcb98xFOYwlcUMMu3qyR0/viewform).
 It takes about 2 minutes, and you don't need to sign in.
+
+## Licence
+
+The Wrath Of Albert is © 2026 jeriju, all rights reserved: you're welcome to download the demo and play it, but
+please don't copy, share, sell or change it (or any part of it). To share it, share a link to this page or the
+[itch.io page](https://jeriju.itch.io/the-wrath-of-albert). The fonts, sound recordings and Godot Engine in it are
+other people's work, under their own licences, which come with the download. See [LICENSE.txt](LICENSE.txt).

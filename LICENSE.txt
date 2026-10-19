@@ -1,0 +1,17 @@
+The Wrath Of Albert (demo)
+Copyright (c) 2026 jeriju. All rights reserved.
+
+You're welcome to download this demo and play it, free, for your own enjoyment.
+
+You may not copy, share, upload, sell or hand out the game, or any part of it (its art, characters, music, sounds,
+writing or code), anywhere else, or change it, without permission from jeriju. If you'd like to share it, please
+share the link to its page instead:
+  https://jeriju.itch.io/the-wrath-of-albert
+  https://github.com/jeriju/the-wrath-of-albert-demo
+
+Some parts of the game are other people's work, under their own licences, which still apply to those parts:
+  - the fonts: see the OFL-*.txt files (SIL Open Font License 1.1) and LICENSE-yellowtail.txt (Apache License 2.0);
+  - the sound recordings the sounds and music are made from: see CREDITS.md;
+  - Godot Engine, the engine the game is made with, and the libraries inside it: see Godot-LICENSE.txt.
+
+The demo is provided as it is, without any warranty.
