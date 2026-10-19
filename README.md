@@ -37,6 +37,16 @@ then **Run anyway**.
 
 The demo is for **Windows** (64-bit). Nothing needs installing.
 
+### On Linux
+
+1. From **[Releases](../../releases)**, download the Linux one: **The Wrath Of Albert Demo (Linux).tar.gz**.
+2. Unpack it (right-click it and choose **Extract Here**, or `tar -xzf` it in a terminal).
+3. Run **The Wrath Of Albert Demo.x86_64** (double-click it, or `./"The Wrath Of Albert Demo.x86_64"` in a terminal).
+
+If it won't start, mark it as allowed to run: right-click it, **Properties**, and tick **Allow executing file as
+program** (or `chmod +x` it). It's for 64-bit Linux, and nothing needs installing. Saves are kept in
+`~/.local/share/The Wrath Of Albert Demo`.
+
 ## Controls
 
 Play with the keyboard or a controller. The game names the buttons the way your controller does: Xbox,
